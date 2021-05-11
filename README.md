@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bogdanmanate
 - 👀 I’m interested in scala, angular, typescript, spring boot freelance projects
 - 🌱 I’m currently learning functional programming, kubernetes
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me via https://www.bogdanmanate.com/contact/
 
 <!---
